@@ -10,6 +10,20 @@ It is designed for research on:
 
 ---
 
+## Citation
+If you use this dataset or build upon it in your research, please cite the following paper:
+
+Wang, Q., Ostadrahimi, S., Faghri, S., Baksh, M., Mauriello, M. L., & Barner, K. E. (2026). Political Stance Detection on X During the 2024U. S. Election: A Comparative Study of Classical, Neural, and Transformer Models. [Preprint](https://www.researchsquare.com/article/rs-9735442/v1)
+
+```bibtex
+@article{wang2026political,
+  title={Political Stance Detection on X During the 2024U. S. Election: A Comparative Study of Classical, Neural, and Transformer Models},
+  author={Wang, Qile and Ostadrahimi, Sahar and Faghri, Safoura and Baksh, Mohammad and Mauriello, Matthew Louis and Barner, Kenneth E},
+  year={2026}
+}
+
+```
+
 ## Data Schema
 
 Each row represents a single post with the following fields:
